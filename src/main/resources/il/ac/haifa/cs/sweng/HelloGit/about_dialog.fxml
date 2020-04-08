@@ -4,13 +4,13 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Text?>
 
-
-<VBox xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1">
+<VBox xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
    <children>
       <AnchorPane prefHeight="200.0" prefWidth="200.0">
          <children>
             <Text layoutX="58.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Team members:" />
             <Text layoutX="55.0" layoutY="56.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ahmed Massalha" />
+            <Text layoutX="70.0" layoutY="79.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Rola Marei " />
          </children>
       </AnchorPane>
    </children>
