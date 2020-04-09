@@ -10,7 +10,7 @@
          <children>
             <Text layoutX="58.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Team members:" />
             <Text layoutX="55.0" layoutY="56.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ahmed Massalha" />
-            <Text layoutX="70.0" layoutY="79.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Rola Marei " />
+            <Text layoutX="70.0" layoutY="79.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Rolla Marei " />
          </children>
       </AnchorPane>
    </children>
